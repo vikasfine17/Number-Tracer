@@ -1,0 +1,6 @@
+requests
+fastapi
+uvicorn
+sentence-transformers
+pytest
+python-dotenv

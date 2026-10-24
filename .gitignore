@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+.pytest_cache/
+
+# Node / Dependencies / Build output
+node_modules/
+.next/
+out/
+build/
+dist/
+*.tsbuildinfo
+.backup_previous_version/
+*.bak
+
+# Environment & secrets (never commit actual API keys)
+.env
+.env*.local
+!.env.example
+
+# Local cache & data dumps
+.cache/
+
+# OS / Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

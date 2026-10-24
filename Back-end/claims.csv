@@ -1,0 +1,4 @@
+text,expected
+"India's population is 1.4 billion",matches
+"China's population is 2 billion",doesnt_match
+"Life expectancy in India is 90 years",doesnt_match

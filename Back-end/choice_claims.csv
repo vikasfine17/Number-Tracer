@@ -1,0 +1,6 @@
+claim,source,correct_indicator_id
+"India's adult literacy rate is 77%",World Bank WDI,SE.ADT.LITR.ZS
+"Youth literacy rate in India is 90%",World Bank WDI,SE.ADT.1524.LT.ZS
+"Total population of India is 1.4 billion",World Bank WDI,SP.POP.TOTL
+"GDP of the United States was 23 trillion dollars",World Bank WDI,NY.GDP.MKTP.CD
+"Life expectancy at birth in Japan is 84 years",World Bank WDI,SP.DYN.LE00.IN
