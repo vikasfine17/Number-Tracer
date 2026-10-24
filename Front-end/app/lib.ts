@@ -68,7 +68,7 @@ export type Result = {
   checks?: Check[];
 };
 
-export const API_DEFAULT = process.env.NEXT_PUBLIC_API ?? "http://localhost:8000";
+export const API_DEFAULT = process.env.NEXT_PUBLIC_API ?? process.env.NEXT_PUBLIC_API_URL ?? "http://localhost:8000";
 export const LABEL: Record<Label, string> = {
   matches: "Matches",
   outdated: "Outdated",
